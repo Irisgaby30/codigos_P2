@@ -1,6 +1,6 @@
  import java.util.Scanner;
 public class exercicio1{
-public static void maid (String[] args) {
+public static void main (String[] args) {
   Scanner leitor = new Scanner (System.in);
   System.out.print("Digite o primeiro nome:");
   String nome1 = leitor.nextLine();
